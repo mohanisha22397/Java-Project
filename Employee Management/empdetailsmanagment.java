@@ -2,7 +2,7 @@ package EmployeePackage;
 
 import java.util.*;
 
-public class EmployeeDetailsProject {
+public class EmpDetailsManagement {
     public static void main(String[] args) {
         @SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
