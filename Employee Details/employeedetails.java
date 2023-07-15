@@ -1,6 +1,6 @@
 package EmployeePackage;
 import java.util.*;
-public class EmployeeDetailsMain {
+public class EmployeeDetails {
 
     public static void main(String[] args) {
         @SuppressWarnings("resource")
